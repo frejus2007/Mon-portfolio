@@ -9,3 +9,4 @@ Voici quelques projets que j’ai réalisés :
 3- Programme de calcul de moyenne en C
 4- Programme de calcul de l'Indice de Masse Corporel (IMC) en C
 5- Programme de changement de devise monetaire ( USD, Euro, FCFA )
+6- Une mini calculatrice
